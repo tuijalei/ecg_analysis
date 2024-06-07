@@ -1,3 +1,9 @@
+<!--
+  Title: ECG classification using deep learning 
+  Description: A deep learning approach for ECG classification
+  Author: tuijalei
+-->
+
 # ECG classification using deep learning 
 
 This ECG classification repository is a refactored version of the repository found [here](https://github.com/ZhaoZhibin/Physionet2020model). The original repository contained the PyTorch implementation of the ResNet model by *Between_a_ROC_and_a_heart_place*, designed for the PhysioNet/Computing in Cardiology Challenge 2020. The associated paper, titled "Adaptive Lead Weighted ResNet Trained With Different Duration Signals for Classifying 12-lead ECGs," was accepted by CinC2020.
