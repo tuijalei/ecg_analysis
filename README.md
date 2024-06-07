@@ -24,7 +24,7 @@ The repository is tested with the Python version 3.10.4.
 
 # Data
 
-For detailed information on how to download, preprocess, and split the data, please check out the [Introduction to data handling](/notebooks/1_introduction_data_handling.ipynb) notebook in the `/notebooks/` directory.
+For detailed information on how to download, preprocess, and split the data, please check out the [Setup the runs](/notebooks/1_setup_runs.ipynb) notebook in the `/notebooks/` directory.
 
 
 # In a nutshell
