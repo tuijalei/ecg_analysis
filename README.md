@@ -1,8 +1,14 @@
 <!--
   Title: ECG classification using deep learning 
-  Description: A deep learning approach for ECG classification
+  Description: A deep learning approach for ECG classification using PyTorch
   Author: tuijalei
 -->
+<head>
+  <meta charset="UTF-8">
+  <meta name="keywords" content="ecg classification, ecg analysis, deep learning, se-resnet, resnet, pytorch"/>
+  <meta name="robots" content="index,follow">
+  <meta name="description" content="The repository provides a PyTorch implementation of a SE-ResNet model for ECG classification."/>
+</head>
 
 # ECG classification using deep learning 
 
